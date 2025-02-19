@@ -5,7 +5,7 @@ I am a 20-year-old Computer Engineering student at Ankara Yıldırım Beyazıt U
 ## 🚀 Skills & Technologies
 - **Programming Languages**: Python, Java
 - **AI & Data Science**: Machine Learning
-- **Tools & Frameworks**: Pandas, NumPy, atplotlib
+- **Tools & Frameworks**: Pandas, NumPy, Matplotlib
 - **Version Control**: Git, GitHub
 
 ## 🌱 Currently Learning
